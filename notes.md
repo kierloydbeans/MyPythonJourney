@@ -12,7 +12,7 @@
 - Time spent: about 1 hour
 
 ## Day 3
-- I did this at 1am in the morning because I got too busy today.
+- I did this at 1am of Day 4 because I got too busy today.
 - Wrote the code from scratch
 - Added validation for age, year, and grades
 - Nested conditions are starting to annoy me.
