@@ -20,3 +20,11 @@
 - Computed the average and its letter equivalent.
 - Included the name in the summary.
 - Time spent: about 20-30 minutes
+
+## Day 4
+- About Conditionals, Input, Validation, and Grading Logic
+- Rewrote the code from memory from scratch
+- Added isalpha() for name validation to ensure the name variable is alphabet characters.
+- Wanted to use isinstance ([grade], int) but it's too painful to implement for each variable. I'll do it when I get to dictionaries and functions. Perhaps it should be a separate method?
+- Executed all printing of the summary in one block.
+- Time spent: Approximately 28 minutes, 02.2 seconds.
