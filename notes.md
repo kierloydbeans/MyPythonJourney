@@ -42,3 +42,23 @@
 - Realized how repetitive validation becomes without loops and functions — pain is now very obvious.
 - Occasional Googling, but most of the work was reasoning and logic.
 - **Time spent:** Approximately 00:52:45.775.
+
+## Day 6
+- Built the most complete version so far: name, age, year level, five subjects, average, pass/fail, and retake logic.
+- Implemented full validation using:
+  - `isalpha()` for names
+  - `isdigit()` for all numeric inputs before casting
+  - Range checks for age, year level, and grades
+- Prevented ugly runtime errors caused by invalid user input.
+- Added logic to:
+  - pass only if the average **and** all subjects are ≥ 75
+  - allow passing with retakes if the average is ≥ 75 but one or more subjects are below
+  - list exactly which subjects need to be retaken
+- Made the program communicate clearly with the user instead of just rejecting input.
+- Code became deeply nested — readability is starting to suffer.
+- This made it extremely clear why:
+  - loops exist (retry instead of restart)
+  - functions exist (validation logic is screaming to be reused)
+- Started thinking in terms of *system behavior* and *user experience*, not just syntax.
+- This stage is repetitive, but the logic is finally clicking.
+- **Time spent:** 39 minutes, 41.89 seconds.
