@@ -62,3 +62,14 @@
 - Started thinking in terms of *system behavior* and *user experience*, not just syntax.
 - This stage is repetitive, but the logic is finally clicking.
 - **Time spent:** 39 minutes, 41.89 seconds.
+
+## Day 7
+- First tried loops.
+- started with while loops.
+- Started streaming on twitch to build confidence. Struggled, lmao.
+- Had a clearer mind when streaming was stopped and had a lunch break.
+- Felt better, understood better.
+- In while loops, you define what is wrong. While it's still wrong, do the code. If correct, do the code at the end.
+- Infinite loops are annoying, lmao
+- If an infinite loop happens, ask for another user input.
+- **Time spent:** Did not record time because it took so much time, lol.
