@@ -26,7 +26,6 @@
 #         status = "ODD"
 #     print(f"{num} x {currentNum} = {finalNum} ({status})")
 #     currentNum = currentNum + 1
-from turtledemo.penrose import start
 
 # num = int(input("Enter a number: "))
 # limit = int(input("Enter a limit: "))
