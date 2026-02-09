@@ -73,3 +73,14 @@
 - Infinite loops are annoying, lmao
 - If an infinite loop happens, ask for another user input.
 - **Time spent:** Did not record time because it took so much time, lol.
+
+## Day 8
+- Completely rewrote Day 7 from memory.
+- Tried completely grasping the while loops.
+- **Time spent:** Not recorded; at school.
+
+## Day 9
+- Applied all the learnings from Day 7 and 8 to ask for multiple inputs with while loops.
+- Asked for name, age, and three subjects with validation.
+- Displayed the summary of grades, and the rounded average.
+- **Time spent:** 22:58.61
