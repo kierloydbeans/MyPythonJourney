@@ -84,3 +84,14 @@
 - Asked for name, age, and three subjects with validation.
 - Displayed the summary of grades, and the rounded average.
 - **Time spent:** 22:58.61
+
+## Day 12
+I am terribly sorry. I've skipped for weeks. I've slacked off. But now, I am gonna bounce back. I will try to go back to the momentum.
+- Started learning lists
+- Used lists in saving user input registered users
+- Used while loops for validation
+- Used for loops for printing all the registered users
+- Used list indexing in printing the corresponding status for security level
+- **Time spent:** 35:05.70
+
+I will bounce back. I need to learn. I need to learn ML so I will focus. I HAVE TO FUCKING LOCK TF IN! TIME IS FUCKING RUNNING!
