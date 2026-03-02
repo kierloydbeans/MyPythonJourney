@@ -95,3 +95,13 @@ I am terribly sorry. I've skipped for weeks. I've slacked off. But now, I am gon
 - **Time spent:** 35:05.70
 
 I will bounce back. I need to learn. I need to learn ML so I will focus. I HAVE TO FUCKING LOCK TF IN! TIME IS FUCKING RUNNING!
+
+## Day 13
+I am starting to bounce back. I have recoded yesterday's code with minimal viewing. I coded in a noisy mall.
+- Trying to master lists
+- Same thing as yesterday
+- Used lists in saving user input registered users
+- Used while loops for validation
+- Used for loops for printing all the registered users
+- Used list indexing in printing the corresponding status for security level
+- **Time spent:** around 20 minutes
