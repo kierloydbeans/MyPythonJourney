@@ -105,3 +105,13 @@ I am starting to bounce back. I have recoded yesterday's code with minimal viewi
 - Used for loops for printing all the registered users
 - Used list indexing in printing the corresponding status for security level
 - **Time spent:** around 20 minutes
+
+## Day 14
+I am getting used to list and dictionaries
+
+- Made a to-do list using dictionaries
+- Used while loop in validation
+- Used for loop in printing
+- Used dictionary for storing the info
+- Added validation to check for empty inputs
+- **Time spent:** about 30 minutes.
