@@ -4,8 +4,8 @@
 # ask if the user wants to continue
 # summary
 
-users = []
-security = ["Bad", "Bad", "Good", "Good", "Excellent"]
+users = []  # start with blank users
+security = ["Bad", "Bad", "Good", "Good", "Excellent"]  # 1 2 3 4 5
 
 # loops the whole thing
 while True:
@@ -36,14 +36,14 @@ while True:
         if securityLevelInput.isdigit():
             securityLevel = int(securityLevelInput)
             if securityLevel >= 1 and securityLevel <= 5:
-                status = security[securityLevel - 1]  # status = new variable;  security = list;  securityLevelInput = inputted variable;  - 1 for indexing
+                status = security[securityLevel - 1]   # status = new variable;  security = list;  securityLevelInput = inputted variable;  - 1 for indexing
                 break
             else:
                 print("Invalid. Must be a number from 1-5.")
         else:
             print("Invalid. Must be a number.")
 
-    # temporary list    0      1     2             3
+    # temporary list 0   1    2              3
     currentUser = [name, age, securityLevel, status]
     users.append(currentUser)
 
